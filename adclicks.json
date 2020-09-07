@@ -1,0 +1,15 @@
+{
+	"limitAdmobBannerClicks" : true,
+	"limitAdmobInterClicks" : true,
+	"interMaxNum" : 2,
+	"bannerMaxNum" : 2,
+	"interTimer" : 10,
+	"bannerTimer" : 10,
+	"testAds" : true,
+	"loadingTimer" : 90,
+	"showProgressBar" : true,
+	"autoMoveActivities" : true,
+	"bannerIdLists" : [ "ca-app-pub-3940256099942544/6300978111"],
+	"interIdLists" : [ "ca-app-pub-3940256099942544/1033173712"],
+	"nextActivitiesName" : ["me.naiimab.test2.SecondActivity","me.naiimab.test2.ThirdActivity"]
+}
